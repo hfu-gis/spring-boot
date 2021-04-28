@@ -1,2 +1,2 @@
-# spring-boot
-A boilerplate Spring Boot project with Material Design Lite
+# my little web shop
+This is my own version of KT's web shop.
